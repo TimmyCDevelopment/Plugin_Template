@@ -1,0 +1,9 @@
+name: Plugin_Template
+main: me.timmyc.template.MainClass
+version: 1.0
+api-version: 1.13
+author: TimmyC
+commands:
+  template:
+    description: template
+    usage: /template
